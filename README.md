@@ -78,14 +78,6 @@ Drop the single HTML file onto any static host:
 
 No build step. No dependencies. No npm install.
 
----
-
-## Owner Delete Mode
-
-When the sky gets crowded, you can remove any plane as the owner.
-
----
-
 ## Project Structure
 
 
