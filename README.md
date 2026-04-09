@@ -78,9 +78,6 @@ Drop the single HTML file onto any static host:
 
 No build step. No dependencies. No npm install.
 
-## Project Structure
-
-
 ## Credits
 
 - **Pollinations.ai** — free AI text generation, no API key
